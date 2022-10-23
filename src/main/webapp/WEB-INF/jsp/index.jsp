@@ -12,7 +12,7 @@
         <img src="<c:url value="/images/image-index.jpg" />" class="img-fluid" alt="image-index">
     </div>
     <div class="container">
-        <h4 class="text-center p-2 m-0">KHUYẾN MẠI</h4>
+        <h4 class="text-center p-2 m-0">KHUYẾN MẠI AAA</h4>
         <div class="row ">
             <div class="col-6">
                 <img src="<c:url value="/images/khuyenmai1.jpg" />" class="img-fluid" alt="image-discount1">
